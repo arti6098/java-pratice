@@ -4,6 +4,4 @@ public class AreaOfSquare{
         int AreaOfSquare=num*num;
         System.out.println(AreaOfSquare);
     }
-
-}
-
+} 

@@ -9,4 +9,4 @@ public class AreaOfrectangle{
         int AreaOfrectangle=length*breadth;
         System.out.println(AreaOfrectangle);
     }
-}
+}done 
